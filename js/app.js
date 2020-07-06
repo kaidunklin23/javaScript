@@ -7,7 +7,7 @@ var shane =6
 var winston =7
 var apollo =8
 var florida =9
-var chcolate =10
+var chocolate =10
 console.log(donut+florida)
 console.log(shane+audrey)
 console.log(chocolate-kaija)
